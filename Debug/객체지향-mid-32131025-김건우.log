@@ -1,0 +1,8 @@
+﻿  PhoneNumber.cpp
+  Sub_system.cpp
+C:\Users\kkw30_000\source\repos\객체지향-mid-32131025-김건우\Sub_system.cpp(20,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkw30_000\source\repos\객체지향-mid-32131025-김건우\Sub_system.cpp(28,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkw30_000\source\repos\객체지향-mid-32131025-김건우\Sub_system.cpp(38,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  객체지향-mid-32131025-김건우.vcxproj -> C:\Users\kkw30_000\source\repos\객체지향-mid-32131025-김건우\Debug\객체지향-mid-32131025-김건우.exe
